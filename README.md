@@ -32,8 +32,6 @@ This package contains the following directories and files:
 
 ## CSS @import
 
-<br>
-
 ### 1. Import all packages
 You can import all available packages with importing this file:
 
