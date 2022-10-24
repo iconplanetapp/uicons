@@ -36,7 +36,7 @@ This package contains the following directories and files:
 You can import all available packages with importing this file:
 
 ``` css
-@import '~@iconplanet/uicons/css/ip-all';
+@import '@iconplanet/uicons/css/ip-all';
 ```
 
 <br>
@@ -45,9 +45,9 @@ You can import all available packages with importing this file:
 Or just import certain packages individually:
 
 ``` css
-@import '~@iconplanet/uicons/css/ip-[PACKAGE-NAME]';
+@import '@iconplanet/uicons/css/ip-[PACKAGE-NAME]';
 
-@import '~@iconplanet/uicons/css/ip-brands';
+@import '@iconplanet/uicons/css/ip-brands';
 ```
 
 |  **Package Name** | **Prefix** |              **Example**               |
