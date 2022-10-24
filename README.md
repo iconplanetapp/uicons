@@ -2,12 +2,15 @@
 
 Install the latest version of Uicons – which includes each individual icon in SVG format, CSS stylesheets and font files – and easily keep your project up to date with the latest icons and enhancements through the npm package manager.
 
+You can find this package page on ```npm``` [here](https://www.npmjs.com/package/@iconplanet/uicons).
+
+Also can give us new star ⭐️ on [```IconPlanet GitHub repo```](https://github.com/iconplanetapp/uicons) to support us.
+
 <br>
 
 # Get Started
 
 ## Installation
-<hr>
 
 Install latest version of IconPlanet uicons package with ```npm``` package manager:
 
@@ -28,7 +31,6 @@ This package contains the following directories and files:
 <br>
 
 ## CSS @import
-<hr>
 
 <br>
 
@@ -57,7 +59,6 @@ Or just import certain packages individually:
 | flat-bold-rounded | ip-fbr     | &lt;i class="ip-fbr-home"></i>         |
 
 ## Use icons
-<hr>
 
 ``` html
 <!DOCTYPE html>
