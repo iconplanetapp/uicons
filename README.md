@@ -1,8 +1,18 @@
 # <img src="https://iconplanet.app/images/logo.svg" height="28" style="vertical-align:middle"> IconPlanet &nbsp;<img src="https://iconplanet.app/images/uicons-logo.svg" height="28" style="vertical-align:middle">
 
+## Source and search
+
+You can find thousands uicon in [IconPlanet website](https://iconplanet.app/). 
+
+## About
+
 Install the latest version of Uicons – which includes each individual icon in SVG format, CSS stylesheets and font files – and easily keep your project up to date with the latest icons and enhancements through the npm package manager.
 
+## npm package
+
 You can find this package page on ```npm``` [here](https://www.npmjs.com/package/@iconplanet/uicons).
+
+## Github repository
 
 Also can give us new star ⭐️ on [```IconPlanet GitHub repo```](https://github.com/iconplanetapp/uicons) to support us.
 
