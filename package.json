@@ -1,6 +1,6 @@
 {
   "name": "@iconplanet/uicons",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Open-source over 10.000 SVG web font optimal vector based icons available for web apps, iOS, and Android applications collected by IconPlanet.",
   "scripts": {
     "postinstall": "node attribution.js"
