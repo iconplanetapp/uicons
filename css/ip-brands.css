@@ -1,7 +1,11 @@
 @font-face {
   font-family: "ip-brands";
-  src: url("../webfonts/ip-brands.woff2?t=1661495983711") format("woff2"),
-  url('../webfonts/ip-brands.ttf?t=1661495983711') format('truetype');
+  src: url('../webfonts/brands/ip-brands.eot?t=1666979858237'); /* IE9*/
+  src: url('../webfonts/brands/ip-brands.eot?t=1666979858237#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("../webfonts/brands/ip-brands.woff2?t=1666979858237") format("woff2"),
+  url("../webfonts/brands/ip-brands.woff?t=1666979858237") format("woff"),
+  url('../webfonts/brands/ip-brands.ttf?t=1666979858237') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('../webfonts/brands/ip-brands.svg?t=1666979858237#ip-brands') format('svg'); /* iOS 4.1- */
 }
 
 [class^="ip-brands-"], [class*=" ip-brands-"] {
