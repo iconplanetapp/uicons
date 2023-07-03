@@ -4,8 +4,7 @@
   src: url('../webfonts/awesome-regular/ip-awesome-regular.eot?t=1666684755688#iefix') format('embedded-opentype'), /* IE6-IE8 */
   url("../webfonts/awesome-regular/ip-awesome-regular.woff2?t=1666684755688") format("woff2"),
   url("../webfonts/awesome-regular/ip-awesome-regular.woff?t=1666684755688") format("woff"),
-  url('../webfonts/awesome-regular/ip-awesome-regular.ttf?t=1666684755688') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('../webfonts/awesome-regular/ip-awesome-regular.svg?t=1666684755688#ip-awesome-regular') format('svg'); /* iOS 4.1- */
+  url('../webfonts/awesome-regular/ip-awesome-regular.ttf?t=1666684755688') format('truetype'); /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
 }
 
 [class^="ip-ar-"], [class*=" ip-ar-"] {
